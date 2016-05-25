@@ -7,11 +7,11 @@
   "plugins": ["edit-link"],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/akbr/redux/tree/master",
+      "base": "https://github.com/akbr/predictive-policing-inventory/tree/master",
       "label": "Edit This Page"
     },
     "github": {
-      "url": "https://github.com/akbr/redux/"
+      "url": "https://github.com/akbr/predictive-policing-inventory/"
     }
   }
 }
