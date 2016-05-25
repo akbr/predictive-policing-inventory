@@ -2,7 +2,7 @@
 
 This document is a resource for understanding the current landscape of predictive policing systems in the United States. It is maintained by the staff at [Upturn](https://teamupturn.com).
 
-Additions, corrections, and feedback are welcome at [hello@teamupturn.com](hello@teamupturn.com). Or, you can [edit any page on github](https://github.com/akbr/redux).
+Additions, corrections, and feedback are welcome at [hello@teamupturn.com](hello@teamupturn.com). Or, you can [edit any page on github](https://github.com/).
 
 This information has been gathered from publicly available sources.
 
