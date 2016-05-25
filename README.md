@@ -1,4 +1,4 @@
-# <a href='https://github.com/akbr/redux/'><img src='https://raw.githubusercontent.com/akbr/redux/master/docs/logo.png' width='600px'></a>
+# TK Logo or Title
 
 This document is a resource for understanding the current landscape of predictive policing systems in the United States. It is maintained by the staff at [Upturn](https://teamupturn.com).
 
