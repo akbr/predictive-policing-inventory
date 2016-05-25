@@ -1,0 +1,17 @@
+{
+  "gitbook": "2.4.3",
+  "title": "Predictive Policing Inventory",
+  "structure": {
+    "summary": "docs/CONTENTS.md"
+  },
+  "plugins": ["edit-link"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/akbr/redux/tree/master",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/akbr/redux/"
+    }
+  }
+}
