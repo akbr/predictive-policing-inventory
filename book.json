@@ -1,9 +1,6 @@
 {
   "gitbook": "2.4.3",
   "title": "Predictive Policing Inventory",
-  "structure": {
-    "summary": "docs/CONTENTS.md"
-  },
   "plugins": ["edit-link"],
   "pluginsConfig": {
     "edit-link": {

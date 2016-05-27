@@ -1,7 +1,7 @@
 ## Table of Contents
 
-* [Introduction](/README.md)
-  * [Test](/README.md#test)
+* [Introduction](README.md)
+  * [Test](README.md#test)
 * [System Analyses](/docs/systems/index.md)
   * [PredPol](/docs/systems/predpol.md)
   * [Risk Terrain Modeling (RTMDx Utility)](/docs/systems/rtmdx.md)
