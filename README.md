@@ -2,7 +2,7 @@
 
 This document is a resource for understanding the current landscape of predictive policing systems in the United States. It is maintained by the staff at [Upturn](https://teamupturn.com).
 
-Additions, corrections, and feedback are welcome at [hello@teamupturn.com](hello@teamupturn.com). Or, you can [edit any page on github](https://github.com/).
+Additions, corrections, and feedback are welcome at [hello@teamupturn.com](hello@teamupturn.com). Or, you can [edit this project on github](https://github.com/TeamUpturn/predictivepolicing.info).
 
 This information has been gathered from publicly available sources.
 
@@ -36,6 +36,7 @@ Transparency is a problem. There are basic questions about any new predictive po
 
 These questions are often hard to answer. While vendors may release marketing literature, one-pagers,  webinars, or provide brief descriptions of their technology to the press, such sources often leave key questions unanswered, providing only a high-level overview of what their systems do or don’t do. For example, though many vendors say they use a police department’s historical crime data to make predictions, almost no vendor clarifies what specific historical crime data they use. (For example: Are arrests included in that data? Is the data set solely based on calls for service?) And while many systems aim to predict a type of crime at a certain place and time, few specify the exact universe of crimes their systems do or do not predict. (For example: Are drug crimes predicted?)
 
+<a name="test"></a>
 ### Large technology firms play a growing role.
 
 Although freestanding, independently branded predictive policing systems garner significant public attention, larger technology vendors are playing a growing role in the predictive policing space — especially with their longstanding relationships with law enforcement. For example:
