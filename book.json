@@ -1,6 +1,5 @@
 {
   "gitbook": "3.0.0",
-  "title": "Predictive Policing Inventory",
   "plugins": ["edit-link"],
   "pluginsConfig": {
     "edit-link": {
