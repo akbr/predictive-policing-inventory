@@ -1,5 +1,5 @@
 {
-  "gitbook": "3.0.3",
+  "gitbook": "3.0.0",
   "title": "Predictive Policing Inventory",
   "plugins": ["edit-link"],
   "pluginsConfig": {
@@ -9,6 +9,9 @@
     },
     "github": {
       "url": "https://github.com/akbr/predictive-policing-inventory/"
+    },
+    "theme-default": {
+      "showLevel": true
     }
   }
 }
